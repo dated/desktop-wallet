@@ -11,6 +11,7 @@ class Permission {
 export const ALERTS = new Permission({ name: 'ALERTS' })
 export const AUDIO = new Permission({ name: 'AUDIO' })
 export const AVATARS = new Permission({ name: 'AVATARS' })
+export const BIG_NUMBER = new Permission({ name: 'BIG_NUMBER' })
 export const COMPONENTS = new Permission({ name: 'COMPONENTS' })
 export const EVENTS = new Permission({ name: 'EVENTS' })
 export const HTTP = new Permission({ name: 'HTTP' })

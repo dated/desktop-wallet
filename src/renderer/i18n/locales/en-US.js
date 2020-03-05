@@ -551,6 +551,7 @@ export default {
       ALERTS: 'Allows access to the Desktop Wallet alerts',
       AUDIO: 'Allows access to play audio from within the Desktop Wallet',
       AVATARS: 'Plugin contains custom avatars',
+      BIG_NUMBER: 'Allows using the BigNumber type',
       COMPONENTS: 'Allows loading custom components',
       EVENTS: 'Allows access to the Desktop Wallet events',
       HTTP: 'Allows performing external web requests',
